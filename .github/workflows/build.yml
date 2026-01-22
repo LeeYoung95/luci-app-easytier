@@ -31,7 +31,7 @@ jobs:
           - aarch64_generic
           
         sdk:
-          - 24.10
+          - 22.03.7
           - SNAPSHOT
 
     steps:
